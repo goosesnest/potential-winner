@@ -1,3 +1,3 @@
 # potential-winner
 
-Collab
+potential-dinner
